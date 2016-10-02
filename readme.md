@@ -1,2 +1,2 @@
 how install this?
-http://tricki2.blogspot.co.id/2016/04/laravel-install-laravel-on-ubuntu.html
+http://www.codedoct.com/2016/04/laravel-install-laravel-pada-ubuntu-1404.html
